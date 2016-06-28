@@ -7,7 +7,7 @@ namespace WebApplication2
 {
     public class Class1
     {
-
+        hgjj
         int a;
     } 
     jhgjhg
